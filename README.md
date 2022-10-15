@@ -1,5 +1,5 @@
 
-# aerify
+# Aerify
 
 Built with AndroidX Support
 
